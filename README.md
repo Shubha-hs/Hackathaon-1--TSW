@@ -1,6 +1,4 @@
-# Hackathon-1--TSW
-
-Machine Learning Hackathon 
+# Customer coupon Classification
 
 Problem Statement:
 You are hired as a data scientist at a leading shopping mall in the country. The shopping mall has tied 
